@@ -20,21 +20,6 @@ Built entirely in **C** with no external libraries — just standard I/O, file h
 
 ---
 
-## 👥 Team
-
-| Name | PRN |
-|---|---|
-| Anish Apparaju | 1262251206 |
-| Krish Gupta | — |
-| Aunip Mishra | — |
-| Piyush Magdum | — |
-| Ayush Savant | — |
-
-**Course:** Foundations of Programming — CSE10010
-**Institution:** MIT World Peace University, Pune
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
